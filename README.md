@@ -19,3 +19,15 @@
 ![](https://github.com/tural327/image-classification/blob/main/environment_classification/Accurancy%20for%20normal%20model.png)
 
 - End of training I testing my model with testing data and result was 0.81%
+
+
+
+[Project - Face mask/without mask classification](https://github.com/tural327/image-classification/tree/main/Withmask%26without%20mask)
+
+- Images was selected by CATEGORY
+
+- appended X,y for building our model
+
+- model training and printed classification report : 
+
+![](https://github.com/tural327/image-classification/blob/main/Withmask%26without%20mask/Classification%20Report.png)
